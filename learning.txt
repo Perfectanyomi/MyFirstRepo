@@ -1,0 +1,1 @@
+This course has taught me how to use Git and GitHub effectively, including creating repositories, making commits, working with branches, and collaborating with others using pull requests. I feel more confident managing version control for my projects now.
